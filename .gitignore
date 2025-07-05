@@ -1,0 +1,4 @@
+
+HP@DESKTOP-RRM8DG3 MINGW64 ~/desktop/Spoon-Knife (main)
+$ git add .gitignore
+fatal: pathspec '.gitignore' did not match any files
